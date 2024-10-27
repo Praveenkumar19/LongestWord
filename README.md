@@ -35,23 +35,3 @@ Example Usage: The if __name__ == "__main__": block provides an example list of 
 
 Customization
 You can customize the list of words in the words variable to test with different datasets.
-
-Example
-Given the example list of words:
-
-python
-Copy code
-words = [
-    "a", "at", "bat", "banana", "b", "ban", "band", "bandana", 
-    "car", "c", "ca", "cat", "cats", "do", "dog", 
-    "dot", "dote", "dotty", "e", "eat", "ear", "earring", 
-    "g", "go", "goat", "got", "hello", "he", "her", "h", 
-    "hi", "hit", "i", "it", "k", "kit", "kite", "kitten",
-    "l", "la", "lad", "ladder", "m", "man", "mad", "made", 
-    "n", "no", "not", "on", "one", "own", "our", "out",
-    "pen", "pencil", "pet", "pick", "pizza", "rat", "rate",
-    "ratty", "s", "sat", "see", "see-saw", "so", "to", "top",
-    "two", "who", "whom", "word", "world", "work", "worker"
-]
-The output will be:
-word
